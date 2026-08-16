@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F0F4F8"/>
+  <rect x="26" y="26" width="1148" height="578" rx="14" fill="#FFFFFF" stroke="#D6DEE8" stroke-width="2"/>
+  <rect x="26" y="26" width="1148" height="76" rx="14" fill="#1A2332"/>
+  <text x="70" y="76" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#FFFFFF" letter-spacing="4">ЗАКЛЮЧЕНИЕ · ТИП ПРИВЯЗАННОСТИ</text>
+
+  <text x="70" y="230" font-family="Georgia, serif" font-size="58" font-weight="bold" fill="#1A2332">Тип привязанности</text>
+  <text x="70" y="304" font-family="Georgia, serif" font-size="58" font-weight="bold" fill="#0D9488">по переписке</text>
+
+  <text x="70" y="372" font-family="Georgia, serif" font-size="26" fill="#4A5568">Тревожный · Избегающий · Безопасный</text>
+
+  <g>
+    <rect x="70" y="416" width="460" height="10" rx="5" fill="#E6ECF3"/>
+    <rect x="70" y="416" width="330" height="10" rx="5" fill="#EA580C"/>
+    <rect x="70" y="444" width="460" height="10" rx="5" fill="#E6ECF3"/>
+    <rect x="70" y="444" width="150" height="10" rx="5" fill="#0D9488"/>
+    <rect x="70" y="472" width="460" height="10" rx="5" fill="#E6ECF3"/>
+    <rect x="70" y="472" width="90" height="10" rx="5" fill="#0D9488"/>
+  </g>
+
+  <g transform="translate(880,300)">
+    <path d="M0 -110c-64 0-112 45-112 101 0 29 13 53 32 70v53a24 24 0 0 0 24 24h24v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32h24a24 24 0 0 0 24-24v-53c19-17 32-41 32-70C112 -65 64 -110 0 -110z"
+          fill="none" stroke="#0D9488" stroke-width="5" stroke-linejoin="round" opacity="0.28"/>
+  </g>
+
+  <text x="70" y="556" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#0D9488" letter-spacing="2">POCHEMU-NE-PISHET.ONLINE</text>
+</svg>
